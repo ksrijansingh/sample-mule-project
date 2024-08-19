@@ -23,4 +23,4 @@ jobs:
       env:
         anypoint.username: ${{ secrets.ANYPOINT_USERNAME }}
         anypoint.password: ${{ secrets.ANYPOINT_PASSWORD }}
-        anypoint.env: "Sandbox"
+        anypoint.env: "QA"
