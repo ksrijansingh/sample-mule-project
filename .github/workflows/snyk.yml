@@ -1,9 +1,6 @@
 name: Snyk Security Scan
 
-on:
-  push:
-    branches:
-      - main
+on: push
 
 jobs:
   security-scan:
