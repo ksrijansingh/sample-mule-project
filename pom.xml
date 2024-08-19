@@ -37,9 +37,9 @@
         <extensions>true</extensions>
         <configuration>
             <cloudHub>
-                <username>srijansk</username>
-                <password>Singh1325</password>
-                <environment>QA</environment>
+                 <username>${anypoint.username}</username>
+                <password>${anypoint.password}</password>
+                <environment>${anypoint.env}</environment>
                 <workerType>Micro</workerType>
                 <workers>1</workers>
                 <region>us-east-1</region>
