@@ -48,7 +48,10 @@
             <runtimeVersion>4.4.0</runtimeVersion> <!-- Mule runtime version -->
             <monitoringAutoRestart>true</monitoringAutoRestart> <!-- Auto-restart on failure -->
           </cloudHub2Settings>
-
+        <username>srijansk
+</username> <!-- Anypoint Platform username -->
+          <password>Singh1325</password> <!-- Anypoint Platform password -->
+          <environmentName>Sandbox</environmentName>
         </configuration>
     </plugin>
      <plugin>
